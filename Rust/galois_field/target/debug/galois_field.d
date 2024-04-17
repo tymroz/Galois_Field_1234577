@@ -1,0 +1,1 @@
+C:\Users\tymot\OneDrive\Pulpit\studia\jpp\Galois_Field_1234577\Rust\galois_field\target\debug\galois_field.exe: C:\Users\tymot\OneDrive\Pulpit\studia\jpp\Galois_Field_1234577\Rust\galois_field\src\galois_field.rs C:\Users\tymot\OneDrive\Pulpit\studia\jpp\Galois_Field_1234577\Rust\galois_field\src\main.rs
